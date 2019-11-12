@@ -1,0 +1,15 @@
+a#abu abu
+b#biru
+b1#biru laut
+b2#biru dongker
+b3#biro dop
+c#coklat
+c1#coklat terang
+h#hitam
+k1#kuning
+m1#merah
+m2#merah maroon
+m3#merah dop
+p#putih
+s#silver
+v#violet
